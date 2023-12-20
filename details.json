@@ -1,0 +1,41 @@
+{
+    "software": {
+        "name": "Entertain",
+        "version": "4.1",
+        "description": "",
+        "license": "MIT",
+        "url": "http://localhost/Entertain",
+        "repository": ["http://localhost/Entertain", "D:\\xampp\\htdocs\\Entertain"],
+        "mainFile": ["http://localhost/Entertain/index.php", "D:\\xampp\\htdocs\\Entertain\\index.php"],
+        "encoding": "utf8",
+        "usedLanguage": {
+            "languages": ["php", "html", "javascript", "css"],
+            "mainLanguage": "php"
+        }
+    },
+    "structure": {
+        "type": "folder based",
+        "layers": 4
+    },
+    "creatorDetails": {
+        "name": "Harsh Hirani",
+        "instagram": "https://instagram.com/harsh.hirani.1234",
+        "facebook": "https://facebook.com/harsh.hirani.1234",
+        "twitter": "https://twitter.com/harsh.hirani.728"
+    },
+    "server": {
+        "name": "localhost",
+        "type": "apache",
+        "ip": "127.0.0.1",
+        "port": "8080",
+        "from": "apache friends",
+        "by": "XAMPP"
+    },
+    "Data of Previous Versions": {
+        "v1.1": "do nothing but just chanche episodes in available that directory",
+        "v2.1": "great design including dark theme, keyboard shortuts",
+        "v2.6": " same as v2.1 with history, description and with direct play video by clicking show mane button see the episode that you left last time of that show, and also down button in side of that show name button",
+        "v3.1": "becoming more suficient and become responsive for both type of devies like laptop and mobile phones and custom logo bar for phone",
+        "v4.1": "becoming more responsive for both type of devies like laptop and mobile phones changed some design and as new feature added slide video as you want with different levels of video playback speed between 0.25x to 2.00x"
+    }
+}
